@@ -1,0 +1,12 @@
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.deps.json
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.dll
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\bin\Debug\net5.0\Catalogo.Domain.pdb
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.AssemblyInfo.cs
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.dll
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\obj\Debug\net5.0\refint\Catalogo.Domain.dll
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\obj\Debug\net5.0\Catalogo.Domain.pdb
+C:\Users\edson\Desktop\dev\Projetos\APICatalogo\Catalogo\Catalogo.Domain\obj\Debug\net5.0\ref\Catalogo.Domain.dll
